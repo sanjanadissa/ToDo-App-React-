@@ -1,18 +1,26 @@
 📝 ToDo App – React
-A simple and responsive ToDo list application built using React and Vite. Users can add tasks, mark them as completed, and delete them. Tasks are saved using localStorage so they remain even after refreshing the page.
+A simple and responsive ToDo list application built using React and Vite.
 
-💡 Features
-Add new tasks
+Users can:
 
-Mark tasks as completed (toggle)
+Add tasks
+
+Mark tasks as completed
 
 Delete tasks
 
-Persistent storage with localStorage
+Tasks are stored in the browser using localStorage.
 
-Responsive layout
+💡 Features
+✅ Add new tasks
 
-Clean UI
+🔄 Toggle completion
+
+❌ Delete tasks
+
+💾 Saves in localStorage
+
+📱 Responsive UI
 
 🚀 Live Demo
 🔗 View the App
